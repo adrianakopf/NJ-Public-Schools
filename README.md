@@ -1,4 +1,4 @@
-What Contributes to Graduation Rates in the NJ Public Schools?
+# What Contributes to Graduation Rates in the NJ Public Schools?
 
 Factors: population, demographics, income, poverty rates, teacher effectiveness, dropout rate, and salaries: teachers, administrators, superintendents.
 
